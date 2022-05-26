@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="insert_text">Вставить текст</string>
+    <string name="receive_text">Тут будет ваш текст</string>
+    <string name="to_second_window">Ко второму окну</string>
+    <string name="to_third_window">К третьему окну</string>
+    <string name="second_window_text">Открыто второе окно</string>
+    <string name="return_text">Вернуться к основному окну</string>
+    <string name="third_window_text">Открыто третье окно</string>
+    <string name="flashlight">Фонарик</string>
+    <string name="GetLocation">Узнать местоположение</string>
+    <string name="receive_location">Тут будет ваше местоположение</string>
+</resources>
